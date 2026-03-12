@@ -25,5 +25,5 @@ This research introduces the **S.U.M.A.I.Y.A Algorithm**, designed to recover st
 Goal is to integrate real-time telescope data to map oxygen and water signatures for Mars colonization.
 
 ### 📊 Data Visualization
-![Distance vs Brightness](.png)
-![Stellar Temperature Distribution](.png)
+![Distance vs Brightness](star_graph.png)
+![Stellar Temperature Distribution](stellar_distribution.png)
